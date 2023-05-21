@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/styleList.css">
+    <
+    <title>Consultar Empresas</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Empresas Cadastradas</h1>
+        <table class="table" id="data-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>CNPJ</th>
+                </tr>
+            </thead>
+            <tbody id="data-body">
+            </tbody>
+        </table>
+    </div>
+
+
+    <!-- Modal -->
+    <button class="details-button" data-id="1">Mais detalhes</button>
+
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Detalhes da Empresa</h2>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+
+    <input class="button-back" type="submit" value="Voltar" onclick="backToHome()">
+    <script src="js/listCompany.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

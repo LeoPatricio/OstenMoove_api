@@ -1,0 +1,12 @@
+Comando para iniciar a API via CMD:
+
+java "-Dspring.profiles.active=prod" "-DDATASOURCE_URL=jdbc:mysql://localhost/ostenmoove_api" "-DDATASOURCE_USERNAME=SEULOGIN" "-DDATASOURCE_PASSWORD=SUASENHA" -jar api-0.0.1-SNAPSHOT.jar
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Documentação do OpenAPI:
+
+OpenAPI definition -> http://localhost:8080/swagger-ui/index.html#/
+
+
+

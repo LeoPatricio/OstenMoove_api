@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffff;
+}
+
+.container-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button {
+    background-color: #5151f5;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}

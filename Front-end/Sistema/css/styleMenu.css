@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffff;
+}
+
+.container-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    height: 100vh;
+
+}
+
+.button-back {
+    background-color: #babac7;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.buttons {
+    background-color: #5151f5;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
