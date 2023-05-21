@@ -31,6 +31,7 @@ var modal = document.getElementById('modal');
 var modalContent = document.getElementById('modal-content');
 
 
+
 detailsButton.addEventListener('click', function() {
   var companyId = this.getAttribute('data-id');
   
