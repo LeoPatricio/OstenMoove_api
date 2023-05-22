@@ -33,5 +33,5 @@ Obs: Altere a variavel "DDATASOURCE_URL" para o endereço do seu banco de dados 
 
 Aqui estão alguns exemplos do sistema. 
 
-![Menu de seleção de funções.](./img/01-Menu)
-![Pagina de cadastro de empresas.](./img/02-CadastroDeEmpresa)
+![Menu de seleção de funções.](./img/01-Menu.png)
+![Pagina de cadastro de empresas.](./img/02-CadastroDeEmpresa.png)
