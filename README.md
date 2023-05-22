@@ -2,12 +2,12 @@
 Api - Gerenciamento de empresas: cadastros, alterações, exibição e exclusão das empresas cadastradas.
 Contem: Api com as funções principais e Front com paginas de cadastro e listagem de empresas cadastradas, assim como alteração e exclução de empresas. 
 
-## Programas necessarios para rodar o sistema.
+## Programas necessarios para execução.
 
 - Java 17.
 - MySQL
 
-## Criar data base
+## Como criar a data base.
 
 1. Instale MySQL. (Para mais detalhes, acesse o link: https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela)
 2. Acesse o Prompt de Comando.
@@ -17,7 +17,7 @@ Contem: Api com as funções principais e Front com paginas de cadastro e listag
 6. Digite o comando: USE NOME-DO-SEU-BANCO;
 
 
-## Instalação
+## Instalação do projeto.
 
 1. Clone o repositório: `git clone  https://github.com/LeoPatricio/OstenMoove_api`
 2. Entre no diretório do projeto: `cd ../OstenMoove_api`
@@ -27,7 +27,7 @@ Obs: Altere a variavel "DDATASOURCE_URL" para o endereço do seu banco de dados 
 ![API iniciada com sucesso.](./img/API-Iniciada.PNG)
 
 
-## Uso
+## Como usar.
 1. Execute o projeto: `index.html`
 2. Teste as funcionalidades disponiveis. 
 
