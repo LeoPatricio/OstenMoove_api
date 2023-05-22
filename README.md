@@ -29,4 +29,9 @@ Obs: Altere a variavel "DDATASOURCE_URL" para o endereço do seu banco de dados 
 
 ## Uso
 1. Execute o projeto: `index.html`
+2. Teste as funcionalidades disponiveis. 
 
+Aqui estão alguns exemplos do sistema. 
+
+![Menu de seleção de funções.](./img/01-Menu)
+![Pagina de cadastro de empresas.](./img/02-CadastroDeEmpresa)
