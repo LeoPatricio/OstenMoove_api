@@ -12,7 +12,7 @@ Contem: Api com as funções principais e Front com paginas de cadastro e listag
 1. Instale MySQL. (Para mais detalhes, acesse o link: https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela)
 2. Acesse o Prompt de Comando.
 3. Faça o login no seu MySQL com o comando: mysql -u root -p. 
-4. Digite sua senha. (Criada na instalar do MySQL)
+4. Digite sua senha. (Criada na instalação do MySQL)
 5. Digite o comando: CREATE DATABASE NOME-DO-SEU-BANCO;
 6. Digite o comando: USE NOME-DO-SEU-BANCO;
 
